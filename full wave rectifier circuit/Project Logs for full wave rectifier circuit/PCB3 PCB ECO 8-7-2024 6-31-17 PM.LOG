@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=P? NewDesignator=output
+Add Pin To Net: Unknown Pin: Pin led-1
+Add Pin To Net: Unknown Pin: Pin led-2
+Add Pin To Net: Unknown Pin: Pin rest-1
+Add Pin To Net: Unknown Pin: Pin rest-2
+Add Class Member: Failed to add class member : Component led Light-Emitting Diode
+Add Class Member: Failed to add class member : Component rest Resistor
