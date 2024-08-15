@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=5V Pin=Micro Sd Card Reader-5
+Added Pin To Net: NetName=GND Pin=Micro Sd Card Reader-6
+Change Net Name : Old Net Name=NetLabel72 New Net Name=dg11
+Added Pin To Net: NetName=dg4 Pin=ARDUINO UNO-19
+Added Pin To Net: NetName=dg4 Pin=Micro Sd Card Reader-1
+Added Net: Name=dg4
+Added Pin To Net: NetName=dg12 Pin=ARDUINO UNO-27
+Added Pin To Net: NetName=dg12 Pin=Micro Sd Card Reader-2
+Added Pin To Net: NetName=dg12 Pin=Micro Sd Card Reader-4
+Added Net: Name=dg12
+Added Room: Name=Sheet2

@@ -1,0 +1,60 @@
+Added Component: Designator=ARDUINO UNO(ARDUINO UNO)
+Added Component: Designator=bmp180(BMP180)
+Added Component: Designator=dht11(DHT11)
+Added Component: Designator=gps.neo.6m(gps.neo.6m)
+Added Component: Designator=LED(LED-1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=MPU3060(mpu6050)
+Added Component: Designator=RF(RF)
+Added Component: Designator=SWITCH(SPST-2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Switch; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3 Pin=ARDUINO UNO-18
+Added Pin To Net: NetName=3 Pin=dht11-2
+Added Net: Name=3
+Added Pin To Net: NetName=5V Pin=ARDUINO UNO-5
+Added Pin To Net: NetName=5V Pin=bmp180-1
+Added Pin To Net: NetName=5V Pin=dht11-1
+Added Pin To Net: NetName=5V Pin=gps.neo.6m-1
+Added Pin To Net: NetName=5V Pin=MPU3060-1
+Added Pin To Net: NetName=5V Pin=RF-4
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=ARDUINO UNO-7
+Added Pin To Net: NetName=GND Pin=bmp180-2
+Added Pin To Net: NetName=GND Pin=dht11-3
+Added Pin To Net: NetName=GND Pin=gps.neo.6m-4
+Added Pin To Net: NetName=GND Pin=MPU3060-2
+Added Pin To Net: NetName=GND Pin=RF-5
+Added Pin To Net: NetName=GND Pin=SWITCH-2
+Added Net: Name=GND
+Added Pin To Net: NetName=LED Pin=LED-1
+Added Net: Name=LED
+Added Pin To Net: NetName=RX Pin=ARDUINO UNO-16
+Added Pin To Net: NetName=RX Pin=RF-2
+Added Net: Name=RX
+Added Pin To Net: NetName=SCL Pin=ARDUINO UNO-14
+Added Pin To Net: NetName=SCL Pin=bmp180-4
+Added Pin To Net: NetName=SCL Pin=MPU3060-3
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=ARDUINO UNO-13
+Added Pin To Net: NetName=SDA Pin=bmp180-3
+Added Pin To Net: NetName=SDA Pin=MPU3060-4
+Added Net: Name=SDA
+Added Pin To Net: NetName=SWITCH Pin=LED-2
+Added Pin To Net: NetName=SWITCH Pin=SWITCH-1
+Added Net: Name=SWITCH
+Added Pin To Net: NetName=TX Pin=ARDUINO UNO-15
+Added Pin To Net: NetName=TX Pin=gps.neo.6m-2
+Added Pin To Net: NetName=TX Pin=RF-3
+Added Net: Name=TX
+Added Class: Name=Sheet2
+Added Room: Name=Sheet2
